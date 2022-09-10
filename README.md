@@ -7,4 +7,4 @@
 - CSS class selector
 - CSS Flexbox
 
-![demo image](./photos/6.png)
+![demo image](./photos/06.png)
